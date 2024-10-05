@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@e-chan1007/eslint-config-vue": "^1.1.8",
+    "eslint": "^9.12.0",
+    "nuxt": "^3.13.2",
+    "sass": "^1.79.4",
+    "typescript": "^5.6.2"
+  },
+  "packageManager": "yarn@4.5.0"
+}
