@@ -8,10 +8,21 @@
   },
   "devDependencies": {
     "@e-chan1007/eslint-config-vue": "^1.1.8",
-    "eslint": "^9.12.0",
+    "@nuxt/ui": "^2.18.6",
+    "@tiptap/extension-mention": "^2.8.0",
+    "@tiptap/suggestion": "^2.8.0",
+    "@vueuse/core": "^11.1.0",
+    "@vueuse/nuxt": "^11.1.0",
+    "eslint": "^8",
+    "googleapis": "^144.0.0",
     "nuxt": "^3.13.2",
+    "nuxt-tiptap-editor": "^2.0.0",
     "sass": "^1.79.4",
+    "tippy.js": "^6.3.7",
     "typescript": "^5.6.2"
   },
-  "packageManager": "yarn@4.5.0"
+  "packageManager": "yarn@4.5.0",
+  "dependencies": {
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz"
+  }
 }
